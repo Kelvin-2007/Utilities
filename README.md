@@ -1,2 +1,2 @@
 # Algorithms
-All the Algorithms are stored in Algorithms.py
+This Repository contains some Handy Algorithms that will have your back in desprete times.
