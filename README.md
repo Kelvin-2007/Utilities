@@ -1,2 +1,2 @@
-# Zola
-Together We can really make a difference.
+# Algorithms
+All the Algorithms are stored in Algorithms.py
