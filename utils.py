@@ -75,7 +75,7 @@ def Divisors(n: int) -> list:
             divisors.append(i)
     return divisors
 
-def BITVALIDITY(n: int) -> bool:
+def BITVALIDITYCHECKER(n: int) -> bool:
     divisors = Divisors(n)
     divisors.remove(n)
     return (Sumlist(divisors)+1) == n
